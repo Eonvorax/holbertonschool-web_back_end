@@ -3,8 +3,7 @@
 This is the task_wait_random module
 """
 
-from asyncio import run, Task, create_task
-from time import time
+from asyncio import Task, create_task
 
 wait_random = __import__('0-basic_async_syntax').wait_random
 
