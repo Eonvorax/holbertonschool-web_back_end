@@ -1,4 +1,8 @@
 #!/usr/bin/env python3
+"""
+This is the type-annotated add module
+"""
+
 
 def add(a: float, b: float) -> float:
     """
