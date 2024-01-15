@@ -1,4 +1,4 @@
-// 0-constants.js
+// 0-ants.js
 
 export function taskFirst() {
   const task = 'I prefer const when I can.';
